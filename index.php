@@ -7,3 +7,5 @@ echo 'zhong  gubi ';
 
 echo "mytest";
 echo "mastet";
+
+echo 123;
